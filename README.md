@@ -12,10 +12,7 @@ To access admin page, add url /admin. Example http://localhost/rental_eria/admin
 ![ss](images/ss6.png)
 
 ## Admin Account
-|   Level   |     Username      | Password |
-|:---------:|:-----------------:|---------:|
-| Admin     |  admin            | admin    |
-| User      |  yusuf@gmail.com  | yusuf    |
+
 
 ## Sistem Requirement
 - Database MySQL
